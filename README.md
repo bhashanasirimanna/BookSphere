@@ -54,6 +54,9 @@ A web application for browsing, adding, editing, deleting, and viewing book revi
 ### Prerequisites
 
 - Node.js and npm installed on your machine.
+   1. node v18.17.0
+   2. npm v10.4.0
+      
 - MongoDB installed locally or access to a cloud MongoDB instance.
 
 ### Installation
@@ -69,17 +72,22 @@ A web application for browsing, adding, editing, deleting, and viewing book revi
 
 ### Running the Application
 
-1. Start the server:
+1.create a .env file outside backend and frontend folders (BookSphere folder)
+
+2.insert the env content sent through email into that file
+
+3. Start the server:
    npm run dev
-2. Open your browser and access the application at:
-   http://localhost:3000
+   
+4. Open your browser and access the application at:
+   http://localhost:5173
 
 ---
 
 ## Database Setup
 
 1. Ensure MongoDB is running locally or provide a MongoDB connection string.
-2. Add your connection string to the .env file under the variable MONGO_URI, for example:
+2. Add your connection string to the .env file under the variable MONGO_URI(Check the email for the URI), for example:
    MONGO_URI=mongodb://localhost:27017/booksphere
 
 ---
