@@ -27,7 +27,8 @@ A web application for browsing, adding, editing, deleting, and viewing book revi
 - Edit Reviews: Update existing reviews.
 - Delete Reviews: Remove unwanted reviews.
 - View Reviews: Read detailed information about a specific review.
-- Filter Reviews: Search and filter reviews based on criteria.
+- Filter Reviews: Filter reviews based on criteria.
+- Filter By Ratings: Filter reviews based on Ratings.
 - Rating Calculation: Dynamically calculate and display average ratings.
 
 ---
@@ -122,6 +123,6 @@ A web application for browsing, adding, editing, deleting, and viewing book revi
 - Reviews are automatically timestamped upon creation.
 - Future enhancements may include:
   - A responsive user interface.
-  - Additional filtering options for reviews.
+  - User and Book Managements.
 
 ---
