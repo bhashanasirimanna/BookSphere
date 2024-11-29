@@ -126,3 +126,15 @@ A web application for browsing, adding, editing, deleting, and viewing book revi
   - User and Book Managements.
 
 ---
+## UI
+Home Screen
+![homeScreen](https://github.com/user-attachments/assets/e02e22c1-21b8-49b4-a95a-b306f7bbfae0)
+
+Browse Books Screen
+![browseScreen](https://github.com/user-attachments/assets/c3eb0818-1efb-45c5-9e8f-2b656d5470cd)
+
+Browse Book Details Screen
+![bookDetailScreen](https://github.com/user-attachments/assets/704558d7-0d52-4772-ab60-939b6aa6db2e)
+
+Update Review Screen
+![Screenshot 2024-11-30 011753](https://github.com/user-attachments/assets/509cae53-8d8c-4ac6-9fad-d6aeb43c671a)
